@@ -1,0 +1,41 @@
+body{
+    background:  url(background.jpg);
+    /* background-color: #3735353d; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: co;
+}
+
+.login{
+    width: 350px;
+    background: #f7c9b459;
+    border: 1px solid #03ff25;
+    border-radius: 20px;
+    margin: 200px auto 0 auto;
+    text-align: center;
+    padding: 37.8px 68px 93px 68px;
+    
+}
+.login input[type="text"], .login input[type="password"]{
+width: 100%;
+font-size: 12px;
+padding: 10px;
+border: 1px solid #17CD8C;
+border-radius: 5px;
+margin-bottom: 25px;
+}
+.checkdiv{
+    text-align: left;
+}
+
+.login input[type="submit"]{
+    border: 1px solid #05ef3f;
+    background: #FFFFFF;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 10px 30px;
+   
+}
+.submitdiv{
+    margin-top: 25px;
+}
